@@ -23,3 +23,6 @@ Investment Decisions:
 Investors and businesses can assess which regions are stabilizing post-pandemic, helping guide market and operational strategies.
 <br>
 
+![DASHBOARD COVER](![Screenshot 2025-01-08 213502](https://github.com/user-attachments/assets/fd20f40b-c940-4fa1-9ab8-7f5be93cf524)
+)
+)
