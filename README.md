@@ -1,5 +1,6 @@
-# Covid--19-Vaccination-Tracker-Using-Tableau-Excel
-This is Tableau Dashboard project ( Covid 19 Vaccination Tracker ) 
+# GLOBAL Healthcare-Vaccination-Tracker-Using-Tableau-Excel 
+This is the Tableau Dashboard project (Covid-19 Vaccination Tracker )
+This is not real-world application (for practice purpose)
 
 This dataset provides a comprehensive look at global COVID-19 vaccination efforts. It tracks key metrics for multiple countries, giving insights into the scale and progress of vaccination campaigns worldwide. 
 <be>
